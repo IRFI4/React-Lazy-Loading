@@ -1,12 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+import { Posts } from './Posts'
 
 function App() {
   return (
-    <div className="App">
-
+    <div className="container p-4">
+      <Posts />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
