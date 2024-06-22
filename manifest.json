@@ -1,6 +1,7 @@
 {
   "short_name": "React App",
   "name": "Create React App Sample",
+  "homepage": "https://irfi4.github.io/react-lazy-loading/",
   "icons": [
     {
       "src": "favicon.ico",
